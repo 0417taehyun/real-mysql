@@ -103,4 +103,4 @@ MySQL 5.5 GA(General Available) 버전부터는 엔터프라이즈 에디션의 
 
 ### MVCC(Multi-Version Concurrency Control)
 
-#### : **04. 아키텍처** 부분에서 더 이야기 나누면 좋은 주제
+: Real MySQL 8.0 1권 04. 아키텍처 부분에서 더 이야기 나누면 좋은 주제
